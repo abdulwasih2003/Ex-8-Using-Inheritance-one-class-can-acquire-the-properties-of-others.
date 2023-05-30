@@ -1,4 +1,4 @@
-# Ex-7-Write-a-java-program-using-inheritance.
+# Ex-8-Write-a-java-program-using-inheritance.
 
 ## AIM:
 To write a java program using inheritance.
